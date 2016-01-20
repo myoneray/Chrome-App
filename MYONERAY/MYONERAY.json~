@@ -1,0 +1,10 @@
+{  
+  "name": "MYONERAY",  
+  "version": "1.0",  
+  "description": "Test APP!",  
+  "browser_action": {  
+    "default_icon": "ico.png" ,
+    "default_title": "MYONERAY",
+    "default_popup": "index.html"
+  }  
+} 

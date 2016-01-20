@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Test",
+    "version": "1.1.7.80",
+    "description": "Test",
+    "browser_action": 
+    {
+       "default_icon": "Images/carrot_64px.png",
+        "name": "保存网页为PDF",
+        "default_popup": "index.html"
+    }
+}
